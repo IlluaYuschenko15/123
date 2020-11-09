@@ -1,0 +1,25 @@
+body {
+    background-color: darkcyan;
+
+}
+h1 {
+    font-size: 30px;}
+h2 {
+        font-size: 35px;
+}
+li{
+    color: darkmagenta  ;
+    font-size: 22px;
+}
+a {
+    color: greenyellow;
+    text-decoration: rgb(139, 17, 78);
+}
+img {
+    border:15px solid coral   ;
+    margin: auto;
+    display: block;
+    border-radius: 400px;
+    width: 500px;
+    height: 1000px;
+}
