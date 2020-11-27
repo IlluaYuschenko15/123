@@ -1,0 +1,48 @@
+.t{display: flex;}
+.box1{
+    background-color: tomato;
+    height: 300px;
+    width: 400px;
+    margin: 25px 20px;
+    display: flex;
+}
+img {
+    height: 300px;
+    width: 250px;
+    position: relative;
+    display: block;
+    right: 20px;
+    bottom: 20px;
+}
+.text{font-size: 25px;
+    color: white;
+
+} 
+.box2{
+    background-color: slategrey;
+    height: 200;
+    width: 400;
+    margin: 25px 20px;
+    display: flex;
+}
+.Batm{font-size: 25px;
+    color: white;
+
+}
+.box3{background-color: teal;
+    height: 200;
+    width: 300;
+    margin: 25px 20px;
+    display: flex;
+}
+.h{font-size: 25px;
+    color: white;}
+  .box4{
+      background-color: slateblue;
+      height: 200;
+    width: 300;
+    margin: 25px 20px;
+    display: flex;
+  }  
+.r{font-size: 25px;
+    color: white;}
