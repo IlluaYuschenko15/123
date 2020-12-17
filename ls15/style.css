@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    background: linear-gradient(#576872, #2BAFFF) no-repeat;
+    margin: 0;
+  }
+  
+  body { 
+    background: linear-gradient(#576872, #2BAFFF) no-repeat;
+  }
+h1 {font-size: 35px;
+    margin: 40px;
+    text-align: center;}
+h2 {font-size: 30px;
+    text-align: center;}
+img{width: 125px;
+    height: 125px;}
+.sell{display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;  
+      }
+.item:last-child{ margin-right: 15px;} 
+.item:first-child{ margin-left: 15px;}
+.item{ background-color: #63CAFF; 
+       /*width: 10%;*/
+       flex: 1 1 0; 
+       height: 100%; 
+       max-height: 200px;
+       margin: 0px 15px;
+       padding: 30px 10px;
+       border: 6px solid #63CAFF ;
+  border-radius: 25px;
+  text-align:center;
+}
+a{color: ghostwhite;
+text-decoration: none;
+}
