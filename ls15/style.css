@@ -1,51 +1,51 @@
 html, body {
-    height: 100%;
-    background: linear-gradient(#576872, #2BAFFF) no-repeat;
-    margin: 0;
-  }
-  
-  body { 
-    background: linear-gradient(#576872, #2BAFFF) no-repeat;
-  }
+  height: 100%;
+  background: linear-gradient(#576872, #2BAFFF) no-repeat;
+  margin: 0;
+}
+
+body { 
+  background: linear-gradient(#576872, #2BAFFF) no-repeat;
+}
 h1 {font-size: 35px;
-    margin: 40px;
-    text-align: center;}
+  margin: 40px;
+  text-align: center;}
 h2 {font-size: 30px;
-    text-align: center;}
+  text-align: center;}
 img{width: 125px;
-    height: 125px;}
+  height: 125px;}
 .sell{display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;  
-      }
+    flex-wrap: wrap;
+    justify-content: space-between;  
+    }
 .item:last-child { 
-  margin-right: 15px;
+margin-right: 15px;
 } 
 .item:first-child{ 
-  margin-left: 15px;
+margin-left: 15px;
 }
 .item{ 
-      background-color: #63CAFF; 
-      height: 50px;
-      width: 200px;
-      margin: 0px 15px;
-      border: 6px solid #63CAFF ;
-      border-radius: 25px;
-      text-align: center;
-      transition: all 0.8s;
+    background-color: #63CAFF; 
+    height: 50px;
+    width: 80px;
+    margin: 0px 15px;
+    border: 6px solid #63CAFF ;
+    border-radius: 25px;
+    text-align: center;
+    transition: all 0.8s;
 }
 a{
-  color: ghostwhite;
-  text-decoration: none;
+color: ghostwhite;
+text-decoration: none;
 }
 .item:hover {
-    height: 100px;
-    width: 250px;
-    background-color: brown;
+  height: 100px;
+  width: 250px;
+  background-color: brown;
 }
 a:hover {
-  color: yellow;
+color: yellow;
 }
 a:active {
-  color: chartreuse;
+color: chartreuse;
 }
