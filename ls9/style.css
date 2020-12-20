@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+}
+
+.first,.second,.third{
+    margin: 70px auto;
+}
+
+.first{
+    width: 1000px;
+}
+
+.rov{
+    height: 300px;
+    width: 1000px;
+}
+
+.f1,.secondHeader1inner{
+    background-color: rgb(240, 138, 4);
+}
+
+.f2,.secondHeader2inner{
+    background-color: rgb(211, 221, 215);
+}
+
+.f3,.secondHeader3inner{
+    background-color: rgb(37, 64, 82);
+}
+
+.second{
+    margin-top: 100px;
+    width: 1000px;
+}
+
+.secondHeader{
+    width: 1000px;
+    height: 250px;
+    display: flex;
+}
+
+.shInner{
+    width: 333.333333333px;
+    height: 100%;
+}
+
+.main{
+    height: 250px;
+    width: 100%;
+    background-color: rgba(29, 0, 77, 0.637);
+}
+
+.secondFooter{
+    display: flex;
+    height: 300px;
+}
+
+.shFooter{
+    width: 50%;
+    height: 100%;
+}
+
+.secondFooter1inner{
+    background-color: rgb(128, 128, 128);
+}
+
+.secondFooter2inner{
+    background-color: rgb(67, 99, 187);
+}
+
+.third{
+    margin-top: 100px;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    background-color: rgb(53, 47, 10);
+    justify-content: space-around;
+}
+
+.thirdSquare{
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.text{
+    padding-top: 40%;
+}
+
+
+.square1{
+    background-color: rgb(162, 255, 182);
+}
+.square2{
+    background-color: rgb(0, 213, 251);
+}
+.square3{
+    background-color: rgb(255, 149, 122);
+}
