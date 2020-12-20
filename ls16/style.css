@@ -1,0 +1,29 @@
+.box{
+  background-color: rgb(0, 21, 139);
+  height: 40px;
+  overflow: hidden;
+  width: 150px;
+  float: left;
+  transition: all 0.8s;
+  border-radius: 15%;
+}
+.box:hover{
+  height: 150px;
+  width: 200px;
+}
+body{
+  background-color: rgb(122, 216, 233);
+}
+.box-g{
+  display: flex;
+  justify-content: space-around;
+}
+p{
+  color: violet;
+}
+h3{
+  color: burlywood;
+}
+h1{
+  color: rgb(233, 168, 145);
+}
