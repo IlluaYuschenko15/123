@@ -1,0 +1,17 @@
+.box{
+    background-color: burlywood;
+    width: 100px;
+    height: 150px;
+    display: block;
+    margin: 20% 20%;
+    overflow: hidden;
+    color: brown;
+}
+.box:hover{
+    width: 400px;
+    height: 200px;
+    margin: 15% 15%;
+ }   
+.box{
+    transition: all 0.8s;
+}
