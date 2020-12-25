@@ -1,0 +1,212 @@
+.box1{
+    background-color: gold;
+    height: 300px;
+    width: 300px;
+    margin: auto auto;
+    margin-top: 300px;
+    border-radius: 1px solid black;
+    border-radius: 80% 80% 5% 5%;
+    display: flex;
+    justify-content: space-around;  
+}
+body{
+    background-color: darkslategray;
+}
+.box2{
+    display: flex;
+}
+.eye{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border:1px solid black;
+    position: relative;
+    border-radius: 100% ;
+    top: 70px;
+    right: 5px;
+    left: -40px;
+}
+.eye1{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border:1px solid black;
+    position: relative;
+    border-radius: 100% ;
+    top: 95px;
+    right: 125px;
+    left: -30px;
+}
+.pupiloftheeye{
+    background-color: white;
+    height: 5px;
+    width: 5px;
+    border:1px solid black;
+    position: relative;
+    border-radius: 100% ;
+    top: 5px;
+    right: 95px;
+    left: 3px;
+    bottom: 50px;
+}
+.pupiloftheeye1{
+    background-color: white;
+    height: 5px;
+    width: 5px;
+    border:1px solid black;
+    position: relative;
+    border-radius: 100% ;
+    top: 5px;
+    right: 95px;
+    left: 2px;
+}
+.box3{
+    display: flex;
+
+}
+.beak {
+    width: 0;
+	height: 0;
+	border-left: 10px solid transparent;
+	border-right: 8px solid transparent;
+    border-bottom: 50px solid orangered;
+    transform: rotate(-95deg);
+    border-top:150px solid transparent; 
+    position: absolute;
+    right: -20px;
+    left: 440px;
+    top: 345px
+}
+.beak1 {
+    width: 0;
+	height: 0;
+	border-left:10px solid transparent;
+	border-right:8px solid transparent;
+    border-bottom: 50px solid orangered;
+    border-top: 150px solid transparent; 
+    transform: rotate(-87deg);
+    position: absolute;
+    right: -20px;
+    left: 440px;
+    top: 330px;
+}
+.paws{display: block; }
+.paws11{
+    width: 0;
+	height: 0;
+	border-left: 0px solid transparent;
+	border-right: 8px solid transparent;
+    border-bottom: 50px solid orangered;
+    transform: rotate(0deg);
+    position: absolute;
+    right: -20px;
+    left: 478px;
+    top: 547px;
+    width: 0;
+    
+}
+.paws12{
+    width: 0;
+    height: 0;
+	border-left: 8px solid transparent;
+	border-right: 0px solid transparent;
+    border-bottom: 50px solid orangered;
+    transform: rotate(90deg);
+    position: absolute;
+    right: -20px;
+    left: 505px;
+    top: 568px;
+}
+.paws13{
+    width: 0;
+    height: 0;
+	border-left: 8px solid transparent;
+	border-right: 0px solid transparent;
+    border-bottom: 50px solid orangered;
+    transform: rotate(45deg);
+    position: absolute;
+    right: -20px;
+    left: 500px;
+    top: 549px;
+}
+.paws14{
+    width: 0;
+    height: 0;
+	border-left: 8px solid transparent;
+	border-right: 0px solid transparent;
+    border-bottom: 50px solid orangered;
+    transform: rotate(30deg);
+    position: absolute;
+    right: -20px;
+    left: 490px;
+    top: 549px;
+
+}
+.paws1{display: block;}
+.paws15{
+    width: 0;
+	height: 0;
+	border-left:8px solid transparent;
+	border-right:0px solid transparent;
+    border-bottom: 50px solid orangered;
+    border-top: 150px solid transparent; 
+    transform: rotate(90deg);
+    position: absolute;
+    right: -20px;
+    left: 700px;
+    top: 496px;
+}
+.paws16{
+    width: 0;
+    height: 0;
+	border-left: 0px solid transparent;
+	border-right: 8px solid transparent;
+    border-bottom: 50px solid orangered;
+    transform: rotate(0deg);
+    position: absolute;
+    right: -20px;
+    left: 600px;
+    top: 550px;
+}
+.paws17{
+    width: 0;
+    height: 0;
+	border-left: 8px solid transparent;
+	border-right: 0px solid transparent;
+    border-bottom: 50px solid orangered;
+    transform: rotate(45deg);
+    position: absolute;
+    right: -20px;
+    left: 620px;
+    top: 555px;
+}
+.paws18{
+    width: 0;
+    height: 0;
+	border-left: 8px solid transparent;
+	border-right: 0px solid transparent;
+    border-bottom: 50px solid orangered;
+    transform: rotate(30deg);
+    position: absolute;
+    right: -20px;
+    left: 615px;
+    top: 549px;
+}
+.wing{display: flex;}
+.wing1{
+    width:100px;
+    height: 100px;
+    margin: 20px 0 -20px 0;
+    border-radius: 50%;
+	border-left: 0px solid transparent;
+	border-right: 8px solid transparent;
+    border-bottom: 10px solid orangered;
+    transform: rotate(30deg);
+    position: absolute;
+    right: -20px;
+    left: 762px;
+    top: 400px;
+}
+.hairstyle{
+    
+}
