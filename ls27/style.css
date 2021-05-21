@@ -1,0 +1,40 @@
+.conte div{
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    border-radius: 10px;
+   
+     }
+
+.conte{ 
+    display: grid;
+    grid-gap: 10px;  
+    grid-row-gap: 200px;  
+    grid-auto-rows: minmax(100px,auto); 
+    grid-template-columns: minmax(150px,1fr) 1fr 1fr;
+    grid-template-rows: minmax(200px,1fr);
+}
+.conte div:nth-child(1){
+    background-color: burlywood;
+    grid-column: 1/5;
+}
+.conte div:nth-child(2){
+    background-color: teal;
+    grid-column: 1;
+    grid-row: 2;
+    
+    
+}
+.conte div:nth-child(3){
+    background-color: burlywood;
+    grid-column: 2/4;
+
+}
+.conte div:nth-child(5){
+    background-color: burlywood;
+    grid-column: 1/5;
+
+}
+.k{
+    font-size: 15px;
+    
+}

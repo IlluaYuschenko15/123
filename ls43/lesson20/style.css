@@ -1,0 +1,50 @@
+body {
+    margin: o;
+    padding: o;
+}
+.box1{
+    width: 100%;
+    background-color: burlywood;
+}
+a {
+    text-decoration: none;
+    color: brown;
+}
+li {
+    display: inline-block;  
+    margin-left: 20px;
+}
+.wrap{
+    display: flex;
+    width: 960px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+img{
+    width: 100px;
+    height: 100px;
+    justify-content: space-between;
+}
+.box2{
+    display: flex;
+}
+.content1{
+    width: 60%;
+    height: 50%;
+    margin-left: 25px;
+    padding-left: 25px;
+    flex-wrap: wrap;
+}
+@media screen and (max-width:800px){
+    input{
+        display: none;
+    }
+    .nav1{
+        display: block;
+    }
+}
+@media screen and (max-width: 500px) {
+    .box2{
+        display: block;
+    }
+}

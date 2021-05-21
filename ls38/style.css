@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+ }
+ .class{
+     width: 100%;
+ }
+ .box1{
+     width: 60%;
+     display: flex;
+     margin-left: 150px;
+     margin-top: 150px;
+     border-bottom: 2px solid black;
+     height: 100px;
+     
+
+ }
+ .fas{
+    font-size:50px;
+    align:right;
+    opacity:1;
+    color:#C6CBD1;
+ }
+ h1{
+     font-size: 35px;
+     font-family: 'PT Sans', sans-serif;
+     padding-left: 7px;
+ }
+ h2{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+     }
+ .box2{margin-left: 150px;
+    width: 1024px;
+    padding-top: 5px;
+}
+.box3{
+    
+}
+h3{
+    font-family: 'PT Sans', sans-serif;
+    color:black;
+    background-color: gray;
+    font-size: 14px;
+    border-radius: 70px;
+    margin-right: 1600px;
+    margin-left: 150px;
+    text-align: center;
+    margin-top: 37px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.class2{
+    width: 100%;
+}
+.box4{
+    margin-left: 150px;
+    margin-top: 90px;
+}
+.box5{
+    display: flex;
+    
+}
+h4{
+    margin-left: 150px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    padding-top: 5px;
+    border-bottom: 2px solid black;
+}
+h5{
+    margin-left: 40px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    padding-top: 5px;
+    border-bottom: 2px solid black;
+    margin-top: 0px;
+}
+h6{
+    margin-left: 50px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    padding-top: 5px;
+    border-bottom: 2px solid black;
+    
+}
+.box6{
+    display: flex;
+    width: 700px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    margin-left: 100px;
+    padding-top: 30px;
+    
+}
+
+
+    
+
+    
+
+
